@@ -4,7 +4,42 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
+    "text": "I’m Srestha Datta — a data analyst with a thing for problems that sit at the intersection of consumer behavior, brand strategy, and numbers."
+  },
+  {
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "Background",
+    "text": "Background\nI hold three degrees that work together in a way that lets me move between technical and business conversations without losing anything in translation:\n\nMS in Business Analytics — UC Irvine, Paul Merage School of Business (GPA 3.6, Expected June 2026)\nMBA in Marketing & Business Analytics — NMIMS, Mumbai (2023)\nBachelor of Engineering in Computer Science — University of Burdwan (2020)"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nObagi Medical — Project Manager, Analytics Capstone (2026) Led a team of 5 on a year-long client engagement. Built an end-to-end analytics workflow on 580K+ rows of sales data, developed two predictive models, and delivered a Tableau dashboard with a live ROI simulator to the client sales team.\nHSBC — Senior Analyst, Pune (2023–2024) Managed a pipeline of 200+ monthly CRM leads, drove $43K+ in combined annual revenue targets, and maintained weekly KPI dashboards for management."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\nPython, R, SQL, Tableau, Power BI, Excel, Snowflake, MongoDB, scikit-learn, Google Analytics"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\nCPG, beauty, retail, and digital marketing analytics. I’m particularly drawn to spaces where the data is rich, the decisions are fast, and the consumer is at the center of everything."
+  },
+  {
+    "objectID": "about.html#connect",
+    "href": "about.html#connect",
+    "title": "About Me",
+    "section": "Connect",
+    "text": "Connect\n\nLinkedIn\nGitHub\nsresthad@uci.edu"
   },
   {
     "objectID": "index.html",
