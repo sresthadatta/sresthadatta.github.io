@@ -1,15 +1,49 @@
 ---
 title: "About Me"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: GitHub
-      href: https://github.com
 ---
 
-Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?
+I'm Srestha Datta — a data analyst with a thing for problems that 
+sit at the intersection of consumer behavior, brand strategy, and 
+numbers.
+
+## Background
+
+I hold three degrees that work together in a way that lets me move 
+between technical and business conversations without losing anything 
+in translation:
+
+- MS in Business Analytics — UC Irvine, Paul Merage School of 
+  Business (GPA 3.6, Expected June 2026)
+- MBA in Marketing & Business Analytics — NMIMS, Mumbai (2023)
+- Bachelor of Engineering in Computer Science — University of 
+  Burdwan (2020)
+
+## Experience
+
+**Obagi Medical** — Project Manager, Analytics Capstone (2026)
+Led a team of 5 on a year-long client engagement. Built an 
+end-to-end analytics workflow on 580K+ rows of sales data, developed 
+two predictive models, and delivered a Tableau dashboard with a live 
+ROI simulator to the client sales team.
+
+**HSBC** — Senior Analyst, Pune (2023–2024)
+Managed a pipeline of 200+ monthly CRM leads, drove $43K+ in 
+combined annual revenue targets, and maintained weekly KPI dashboards 
+for management.
+
+## Skills
+
+Python, R, SQL, Tableau, Power BI, Excel, Snowflake, MongoDB, 
+scikit-learn, Google Analytics
+
+## Interests
+
+CPG, beauty, retail, and digital marketing analytics. I'm 
+particularly drawn to spaces where the data is rich, the decisions 
+are fast, and the consumer is at the center of everything.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sresthadatta-316541162)
+- [GitHub](https://github.com/sresthadatta)
+- sresthad@uci.edu
