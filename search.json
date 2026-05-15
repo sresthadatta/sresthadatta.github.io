@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Srestha Datta",
-    "section": "",
-    "text": "I build analytics workflows that turn raw, complex data into decisions businesses can actually act on.\nI’m completing my MS in Business Analytics at UC Irvine’s Paul Merage School of Business, adding to an MBA from NMIMS and a Computer Science engineering degree. The combination means I can move fluidly between technical teams, marketing functions, and executive stakeholders.\nMy recent work spans revenue impact modeling for a real skincare brand client, Airbnb pricing analytics across 13,500+ listings, retail customer segmentation for ZARA, and geospatial water quality prediction for EY’s 2026 global AI challenge.\nI’m particularly drawn to CPG, beauty, retail, and digital marketing analytics — spaces where consumer behavior, brand strategy, and data intersect in ways that are both analytically rich and genuinely fun to work on."
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Srestha Datta",
-    "section": "Projects",
-    "text": "Projects\n\nAirbnb Pricing Analytics\nZARA Sales Performance & Customer Segmentation"
-  },
-  {
-    "objectID": "index.html#connect",
-    "href": "index.html#connect",
-    "title": "Srestha Datta",
-    "section": "Connect",
-    "text": "Connect\n\nLinkedIn\nGitHub\nsresthad@uci.edu"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -59,6 +38,27 @@
     "objectID": "about.html#connect",
     "href": "about.html#connect",
     "title": "About Me",
+    "section": "Connect",
+    "text": "Connect\n\nLinkedIn\nGitHub\nsresthad@uci.edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Srestha Datta",
+    "section": "",
+    "text": "I build analytics workflows that turn raw, complex data into decisions businesses can actually act on.\nI’m completing my MS in Business Analytics at UC Irvine’s Paul Merage School of Business, adding to an MBA from NMIMS and a Computer Science engineering degree. The combination means I can move fluidly between technical teams, marketing functions, and executive stakeholders.\nMy recent work spans revenue impact modeling for a real skincare brand client, Airbnb pricing analytics across 13,500+ listings, retail customer segmentation for ZARA, and geospatial water quality prediction for EY’s 2026 global AI challenge.\nI’m particularly drawn to CPG, beauty, retail, and digital marketing analytics — spaces where consumer behavior, brand strategy, and data intersect in ways that are both analytically rich and genuinely fun to work on."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Srestha Datta",
+    "section": "Projects",
+    "text": "Projects\n\nAirbnb Pricing Analytics\nZARA Sales Performance & Customer Segmentation"
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "Srestha Datta",
     "section": "Connect",
     "text": "Connect\n\nLinkedIn\nGitHub\nsresthad@uci.edu"
   }
