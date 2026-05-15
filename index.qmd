@@ -2,6 +2,20 @@
 title: "Srestha Datta"
 ---
 
+::: {.hero-section}
+# Srestha Datta
+
+*Analytics that move the needle.*
+
+[View My Work](#projects) | [Connect](#connect)
+:::
+
+::: {.gallery-strip}
+![](images/yevhen-ptashnyk-8HG730u1Y-unsplash.jpg)
+![](images/anna-liski-QCt93oSosQQ-unsplash.jpg)
+![](images/lorna-grima-2hSifUwzocs-unsplash.jpg)
+:::
+
 I build analytics workflows that turn raw, complex data into decisions 
 businesses can actually act on.
 
@@ -15,17 +29,29 @@ client, Airbnb pricing analytics across 13,500+ listings, retail
 customer segmentation for ZARA, and geospatial water quality prediction 
 for EY's 2026 global AI challenge.
 
-I'm particularly drawn to CPG, beauty, retail, and digital marketing 
-analytics — spaces where consumer behavior, brand strategy, and data 
-intersect in ways that are both analytically rich and genuinely fun to 
-work on.
+## Projects {#projects}
 
-## Projects
+::: {.project-card}
+### [Airbnb Pricing Analytics](https://github.com/sresthadatta/Airbnb-Analysis)
+![](images/declan-sun-MF0Wf9aKxU4-unsplash.jpg)
+Scraped and cleaned 13,500+ LA listings. Built a regression pricing 
+model identifying neighborhood, room type, and amenity richness as 
+top price drivers.
 
-- [Airbnb Pricing Analytics](https://github.com/sresthadatta/Airbnb-Analysis)
-- [ZARA Sales Performance & Customer Segmentation](https://github.com/sresthadatta/ZARA-Marketing-Analytics)
+*Python · Tableau · Regression · Feature Engineering*
+:::
 
-## Connect
+::: {.project-card}
+### [ZARA Sales Performance & Customer Segmentation](https://github.com/sresthadatta/ZARA-Marketing-Analytics)
+![](images/ernest-karchmit-0fbmfAFC_cM-unsplash.jpg)
+Applied K-Means clustering and regression on 1,800+ products. 
+Identified store placement as strongest sales driver and delivered 
+a merchandising strategy recommendation.
+
+*Python · K-Means Clustering · Regression · Business Strategy*
+:::
+
+## Connect {#connect}
 
 - [LinkedIn](https://www.linkedin.com/in/sresthadatta-316541162)
 - [GitHub](https://github.com/sresthadatta)
