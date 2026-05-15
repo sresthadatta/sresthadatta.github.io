@@ -1,1 +1,104 @@
+/* Typography */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;500&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    color: #1a1a1a;
+    background-color: #ffffff;
+    font-size: 1rem;
+    line-height: 1.8;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    color: #1a1a1a;
+    letter-spacing: -0.02em;
+}
+
+h1 {
+    font-size: 3.5rem;
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 0.5rem;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 1.2rem 2rem;
+}
+
+.navbar-brand {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #1a1a1a !important;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.nav-link {
+    color: #555 !important;
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.nav-link:hover {
+    color: #1a1a1a !important;
+}
+
+/* Main content */
+#quarto-content {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+}
+
+/* Links */
+a {
+    color: #1a1a1a;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+a:hover {
+    color: #c9a96e;
+}
+
+/* Accent color — warm gold */
+h2 {
+    border-bottom-color: #c9a96e;
+}
+
+/* List styling */
+ul {
+    padding-left: 1.2rem;
+}
+
+li {
+    margin-bottom: 0.4rem;
+}
+
+/* Footer */
+.nav-footer {
+    border-top: 1px solid #e8e8e8;
+    font-size: 0.8rem;
+    color: #999;
+    padding: 1.5rem 2rem;
+}
+
 /* Custom styles — add your own here */
