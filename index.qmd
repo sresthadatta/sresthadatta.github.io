@@ -1,3 +1,4 @@
+cat > index.qmd << 'EOF'
 ---
 title: ""
 ---
@@ -5,33 +6,31 @@ title: ""
 ::: {.hero-section}
 ![](images/anna-liski-QCt93oSosQQ-unsplash.jpg)
 
-# Srestha Datta
-
 *Business Analyst | MBA + MS Analytics | Turning Data into Decisions*
 
 [View My Work](#projects) | [Connect](#connect)
 :::
 
-I build analytics workflows that turn raw, complex data into decisions 
+I build analytics workflows that turn raw, complex data into decisions
 businesses can actually act on.
 
-I'm completing my MS in Business Analytics at UC Irvine's Paul Merage 
-School of Business, adding to an MBA from NMIMS and a Computer Science 
-engineering degree. The combination means I can move fluidly between 
+I'm completing my MS in Business Analytics at UC Irvine's Paul Merage
+School of Business, adding to an MBA from NMIMS and a Computer Science
+engineering degree. The combination means I can move fluidly between
 technical teams, marketing functions, and executive stakeholders.
 
-My recent work spans revenue impact modeling for a real skincare brand 
-client, Airbnb pricing analytics across 13,500+ listings, retail 
-customer segmentation for ZARA, and geospatial water quality prediction 
+My recent work spans revenue impact modeling for a real skincare brand
+client, Airbnb pricing analytics across 13,500+ listings, retail
+customer segmentation for ZARA, and geospatial water quality prediction
 for EY's 2026 global AI challenge.
 
 ## Projects {#projects}
 
 ::: {.project-card}
 ### [Airbnb Pricing Analytics](https://github.com/sresthadatta/Airbnb-Analysis)
-![](images/declan-sun-MF0Wf9aKxU4-unsplash.jpg){.project-thumb}
-Scraped and cleaned 13,500+ LA listings. Built a regression pricing 
-model identifying neighborhood, room type, and amenity richness as 
+![](images/declan-sun-MF0Wf9aKxU4-unsplash.jpg)
+Scraped and cleaned 13,500+ LA listings. Built a regression pricing
+model identifying neighborhood, room type, and amenity richness as
 top price drivers.
 
 *Python · Tableau · Regression · Feature Engineering*
@@ -39,9 +38,9 @@ top price drivers.
 
 ::: {.project-card}
 ### [ZARA Sales Performance & Customer Segmentation](https://github.com/sresthadatta/ZARA-Marketing-Analytics)
-![](images/ernest-karchmit-0fbmfAFC_cM-unsplash.jpg){.project-thumb}
-Applied K-Means clustering and regression on 1,800+ products. 
-Identified store placement as strongest sales driver and delivered 
+![](images/ernest-karchmit-0fbmfAFC_cM-unsplash.jpg)
+Applied K-Means clustering and regression on 1,800+ products.
+Identified store placement as strongest sales driver and delivered
 a merchandising strategy recommendation.
 
 *Python · K-Means Clustering · Regression · Business Strategy*
@@ -50,5 +49,4 @@ a merchandising strategy recommendation.
 ## Connect {#connect}
 
 - [LinkedIn](https://www.linkedin.com/in/sresthadatta-316541162)
-- [GitHub](https://github.com/sresthadatta)
-- sresthad@uci.edu
+- [G
