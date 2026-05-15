@@ -1,3 +1,4 @@
+cat > _quarto.yml << 'EOF'
 project:
   type: website
 
@@ -21,3 +22,4 @@ format:
     theme: flatly
     css: styles.css
     toc: false
+EOF
