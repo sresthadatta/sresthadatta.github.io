@@ -3,17 +3,13 @@ title: "Srestha Datta"
 ---
 
 ::: {.hero-section}
+![](images/anna-liski-QCt93oSosQQ-unsplash.jpg)
+
 # Srestha Datta
 
 *Analytics that move the needle.*
 
 [View My Work](#projects) | [Connect](#connect)
-:::
-
-::: {.gallery-strip}
-![](images/yevhen-ptashnyk-8HG730u1Y-unsplash.jpg)
-![](images/anna-liski-QCt93oSosQQ-unsplash.jpg)
-![](images/lorna-grima-2hSifUwzocs-unsplash.jpg)
 :::
 
 I build analytics workflows that turn raw, complex data into decisions 
@@ -33,7 +29,7 @@ for EY's 2026 global AI challenge.
 
 ::: {.project-card}
 ### [Airbnb Pricing Analytics](https://github.com/sresthadatta/Airbnb-Analysis)
-![](images/declan-sun-MF0Wf9aKxU4-unsplash.jpg)
+![](images/declan-sun-MF0Wf9aKxU4-unsplash.jpg){.project-thumb}
 Scraped and cleaned 13,500+ LA listings. Built a regression pricing 
 model identifying neighborhood, room type, and amenity richness as 
 top price drivers.
@@ -43,7 +39,7 @@ top price drivers.
 
 ::: {.project-card}
 ### [ZARA Sales Performance & Customer Segmentation](https://github.com/sresthadatta/ZARA-Marketing-Analytics)
-![](images/ernest-karchmit-0fbmfAFC_cM-unsplash.jpg)
+![](images/ernest-karchmit-0fbmfAFC_cM-unsplash.jpg){.project-thumb}
 Applied K-Means clustering and regression on 1,800+ products. 
 Identified store placement as strongest sales driver and delivered 
 a merchandising strategy recommendation.
