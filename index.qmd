@@ -1,11 +1,32 @@
 ---
-title: "Welcome!"
+title: "Srestha Datta"
 ---
 
-This is your portfolio site. Start by editing this page and `about.qmd` to make it your own.
+I build analytics workflows that turn raw, complex data into decisions 
+businesses can actually act on.
 
-## Next Steps
+I'm completing my MS in Business Analytics at UC Irvine's Paul Merage 
+School of Business, adding to an MBA from NMIMS and a Computer Science 
+engineering degree. The combination means I can move fluidly between 
+technical teams, marketing functions, and executive stakeholders.
 
-- Edit `about.qmd` with your info
-- Create a project post in `posts/`
-- Push to `main` and your site will auto-deploy
+My recent work spans revenue impact modeling for a real skincare brand 
+client, Airbnb pricing analytics across 13,500+ listings, retail 
+customer segmentation for ZARA, and geospatial water quality prediction 
+for EY's 2026 global AI challenge.
+
+I'm particularly drawn to CPG, beauty, retail, and digital marketing 
+analytics — spaces where consumer behavior, brand strategy, and data 
+intersect in ways that are both analytically rich and genuinely fun to 
+work on.
+
+## Projects
+
+- [Airbnb Pricing Analytics](https://github.com/sresthadatta/Airbnb-Analysis)
+- [ZARA Sales Performance & Customer Segmentation](https://github.com/sresthadatta/ZARA-Marketing-Analytics)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/sresthadatta-316541162)
+- [GitHub](https://github.com/sresthadatta)
+- sresthad@uci.edu
