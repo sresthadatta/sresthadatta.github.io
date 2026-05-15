@@ -1,104 +1,78 @@
-/* Typography */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;500&display=swap');
-
-body {
-    font-family: 'Inter', sans-serif;
-    font-weight: 300;
-    color: #1a1a1a;
-    background-color: #ffffff;
-    font-size: 1rem;
-    line-height: 1.8;
+/* Hero Section */
+.hero-section {
+  text-align: center;
+  padding: 6rem 2rem 4rem;
+  border-bottom: 1px solid #e8e8e8;
 }
 
-h1,
-h2,
-h3 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 700;
-    color: #1a1a1a;
-    letter-spacing: -0.02em;
+.hero-section h1 {
+  font-size: 5rem;
+  letter-spacing: -0.03em;
+  margin-bottom: 1rem;
 }
 
-h1 {
-    font-size: 3.5rem;
-    line-height: 1.1;
-    margin-bottom: 1.5rem;
+.hero-section em {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  font-size: 1.1rem;
+  color: #888;
+  font-style: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
-h2 {
-    font-size: 1.5rem;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
-    border-bottom: 1px solid #e8e8e8;
-    padding-bottom: 0.5rem;
+/* Gallery Strip */
+.gallery-strip {
+  display: flex;
+  gap: 1rem;
+  margin: 3rem 0;
+  height: 280px;
+  overflow: hidden;
 }
 
-/* Navbar */
-.navbar {
-    background-color: #ffffff !important;
-    border-bottom: 1px solid #e8e8e8;
-    padding: 1.2rem 2rem;
+.gallery-strip img {
+  flex: 1;
+  object-fit: cover;
+  border-radius: 4px;
+  filter: grayscale(20%);
+  transition: filter 0.3s ease;
 }
 
-.navbar-brand {
-    font-family: 'Inter', sans-serif;
-    font-weight: 500;
-    font-size: 1rem;
-    color: #1a1a1a !important;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
+.gallery-strip img:hover {
+  filter: grayscale(0%);
 }
 
-.nav-link {
-    color: #555 !important;
-    font-size: 0.85rem;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    font-weight: 400;
+/* Project Cards */
+.project-card {
+  border: 1px solid #e8e8e8;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  transition: box-shadow 0.3s ease;
 }
 
-.nav-link:hover {
-    color: #1a1a1a !important;
+.project-card:hover {
+  box-shadow: 0 8px 30px rgba(0,0,0,0.08);
 }
 
-/* Main content */
-#quarto-content {
-    max-width: 780px;
-    margin: 0 auto;
-    padding: 4rem 2rem;
+.project-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+  filter: grayscale(30%);
 }
 
-/* Links */
-a {
-    color: #1a1a1a;
-    text-decoration: underline;
-    text-underline-offset: 3px;
+.project-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.8rem;
 }
 
-a:hover {
-    color: #c9a96e;
+.project-card em {
+  font-size: 0.8rem;
+  color: #c9a96e;
+  font-style: normal;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
-
-/* Accent color — warm gold */
-h2 {
-    border-bottom-color: #c9a96e;
-}
-
-/* List styling */
-ul {
-    padding-left: 1.2rem;
-}
-
-li {
-    margin-bottom: 0.4rem;
-}
-
-/* Footer */
-.nav-footer {
-    border-top: 1px solid #e8e8e8;
-    font-size: 0.8rem;
-    color: #999;
-    padding: 1.5rem 2rem;
-}
-
-/* Custom styles — add your own here */
