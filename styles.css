@@ -1,14 +1,3 @@
-/* Hide navbar completely */
-.navbar {
-  display: none !important;
-}
-
-#quarto-content {
-  padding-top: 2rem !important;
-}
-
-/* Typography */
-@import url('https://fonts.google...
 /* Typography */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;500&display=swap');
 
@@ -50,12 +39,7 @@ h2 {
 }
 
 .navbar-brand {
-  font-family: 'Inter', sans-serif;
-  font-weight: 500;
-  font-size: 1rem;
-  color: #1a1a1a !important;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+  display: none !important;
 }
 
 .nav-link {
