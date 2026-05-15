@@ -2,13 +2,9 @@ project:
   type: website
 
 website:
-  title: "Srestha Datta"
+  title: ""
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
+    background: light
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/sresthadatta-316541162
