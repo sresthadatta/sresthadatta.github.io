@@ -44,21 +44,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Srestha Datta",
+    "title": "",
     "section": "",
-    "text": "Business Analyst | MBA + MS Analytics | Turning Data into Decisions\nView My Work | Connect\nI build analytics workflows that turn raw, complex data into decisions businesses can actually act on.\nI’m completing my MS in Business Analytics at UC Irvine’s Paul Merage School of Business, adding to an MBA from NMIMS and a Computer Science engineering degree. The combination means I can move fluidly between technical teams, marketing functions, and executive stakeholders.\nMy recent work spans revenue impact modeling for a real skincare brand client, Airbnb pricing analytics across 13,500+ listings, retail customer segmentation for ZARA, and geospatial water quality prediction for EY’s 2026 global AI challenge."
+    "text": "Business Analyst | MBA + MS Analytics | Turning Data into Decisions\nView My Work | Connect | Download CV\nI build analytics workflows that turn raw, complex data into decisions businesses can actually act on.\nI’m completing my MS in Business Analytics at UC Irvine’s Paul Merage School of Business, adding to an MBA from NMIMS and a Computer Science engineering degree. The combination means I can move fluidly between technical teams, marketing functions, and executive stakeholders.\nMy recent work spans revenue impact modeling for a real skincare brand client, Airbnb pricing analytics across 13,500+ listings, retail customer segmentation for ZARA, and geospatial water quality prediction for EY’s 2026 global AI challenge."
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
-    "title": "Srestha Datta",
+    "title": "",
     "section": "Projects",
     "text": "Projects\n\nAirbnb Pricing Analytics\n Scraped and cleaned 13,500+ LA listings. Built a regression pricing model identifying neighborhood, room type, and amenity richness as top price drivers.\nPython · Tableau · Regression · Feature Engineering\n\n\nZARA Sales Performance & Customer Segmentation\n Applied K-Means clustering and regression on 1,800+ products. Identified store placement as strongest sales driver and delivered a merchandising strategy recommendation.\nPython · K-Means Clustering · Regression · Business Strategy"
   },
   {
     "objectID": "index.html#connect",
     "href": "index.html#connect",
-    "title": "Srestha Datta",
+    "title": "",
     "section": "Connect",
     "text": "Connect\n\nLinkedIn\nGitHub\nsresthad@uci.edu"
   }
