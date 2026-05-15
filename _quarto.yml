@@ -5,6 +5,11 @@ website:
   title: ""
   navbar:
     background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/sresthadatta-316541162
