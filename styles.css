@@ -134,10 +134,11 @@ li {
   box-shadow: 0 8px 30px rgba(0,0,0,0.08);
 }
 
-.project-thumb {
+.project-card img {
   width: 100% !important;
   height: 90px !important;
   object-fit: cover !important;
+  object-position: center !important;
   border-radius: 4px !important;
   margin-bottom: 1.5rem !important;
   filter: grayscale(30%);
