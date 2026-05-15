@@ -1,5 +1,5 @@
 ---
-title: "Srestha Datta"
+title: ""
 ---
 
 ::: {.hero-section}
@@ -7,7 +7,7 @@ title: "Srestha Datta"
 
 # Srestha Datta
 
-*Analytics that move the needle.*
+*Business Analyst | MBA + MS Analytics | Turning Data into Decisions*
 
 [View My Work](#projects) | [Connect](#connect)
 :::
